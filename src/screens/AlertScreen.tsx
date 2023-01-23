@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import {Alert, Button, View} from 'react-native';
 
 import prompt from 'react-native-prompt-android';
